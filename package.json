@@ -1,0 +1,12 @@
+{
+  "name": "CI-CD-nodejs-docker-jenkins",
+  "version": "1.0.0",
+  "description": "Node.js app with Jenkins CI/CD pipeline using Docker on AWS EC2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
